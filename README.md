@@ -1,4 +1,15 @@
-### Hi there 👋
+### olá 👋 
+Meu nome é Paulo Roberto Leite 
+Eu estou atualmente estudando no curso de Análise e Desenvolvimento de Sistemas na PUC Minas
+Sou iniciante mas com vontade de aprender, aberto a novas ideias 
+linguagens que eu sei:
+HTML
+CSS
+Javascript
+C# (especialidade)
+React.js (iniciante)
+Node.Js (iniciante)
+SQL (iniciante)
 
 <!--
 **Paulo-RL/Paulo-RL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
